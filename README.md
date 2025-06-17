@@ -12,8 +12,10 @@ This is a simple browser-based drawing grid project inspired by the classic Etch
 - Clean, minimal UI
 
 ## 📸 Preview
+![Screenshot 2025-06-17 233649](https://github.com/user-attachments/assets/51555ca3-a116-4840-819a-03915560427d)
 
-![screenshot](screenshot.png) *(Add your screenshot if available)*
+
+
 
 ## 🛠 Technologies Used
 
